@@ -1,0 +1,20 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.renderWhitespace": true,
+    "editor.renderIndentGuides": true,
+    "files.autoSave": "onFocusChange",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/_gh_pages": true,
+        "**/.idea": true,
+        "**/.sass-cache": true,
+        "**/build": true
+    },
+    "workbench.colorTheme": "Cobalt2",
+    "vim.disableAnnoyingNeovimMessage": true
+}

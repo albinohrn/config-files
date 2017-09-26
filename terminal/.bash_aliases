@@ -1,0 +1,5 @@
+alias ll='ls -lah'
+alias cd..='cd ..'
+alias ..='cd ..'
+alias httpServer='python -m SimpleHTTPServer 8080'
+alias clearclipboard='echo -n '' | pbcopy'

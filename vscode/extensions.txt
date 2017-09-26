@@ -1,0 +1,5 @@
+EditorConfig.EditorConfig
+PKief.material-icon-theme
+ms-vscode.csharp
+vscodevim.vim
+wesbos.theme-cobalt2
