@@ -1,19 +1,60 @@
 {
-    "editor.renderWhitespace": "all",
-    "editor.renderIndentGuides": true,
-    "files.autoSave": "onFocusChange",
-    "workbench.iconTheme": "material-icon-theme",
-    "files.exclude": {
-        "**/.git": true,
-        "**/.svn": true,
-        "**/.hg": true,
-        "**/CVS": true,
-        "**/.DS_Store": true,
-        "**/_gh_pages": true,
-        "**/.idea": true,
-        "**/.sass-cache": true,
-        "**/build": true
-    },
-    "workbench.colorTheme": "Cobalt2",
-    "vim.disableAnnoyingNeovimMessage": true
+  "editor.fontFamily": "'JetBrains Mono'",
+  "editor.letterSpacing": 0.5,
+  "editor.fontLigatures": true,
+  "editor.renderWhitespace": "all",
+  "editor.renderIndentGuides": true,
+  "files.autoSave": "onFocusChange",
+  "workbench.iconTheme": "material-icon-theme",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/.idea": true,
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "editor.multiCursorModifier": "alt",
+  "window.zoomLevel": 0,
+  "git.enableSmartCommit": true,
+  "material-icon-theme.showUpdateMessage": false,
+  "vim.easymotion": true,
+  "todohighlight.isEnable": true,
+  "todohighlight.keywords": [
+    "TRANSLATE:"
+  ],
+  "workbench.colorTheme": "Spacegray Eighties Dark",
+  "terminal.integrated.fontFamily": "monospace",
+  "diffEditor.renderSideBySide": true,
+  "vim.disableExtension": false,
+  "git.showPushSuccessNotification": true,
+  "git.autofetch": true,
+  "prettier.requireConfig": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "cSpell.userWords": [
+    "Dropdown",
+    "Giphy",
+    "Okta",
+    "backoffice",
+    "debounced",
+    "frontmatter",
+    "sitevision",
+    "testid",
+    "trustly"
+  ],
+  "workbench.editor.showTabs": true,
+  "editor.formatOnSave": true,
+  "eslint.run": "onSave",
+  "git.path": "/usr/local/bin/git",
+  "terminal.integrated.rendererType": "dom",
+  "editor.suggestSelection": "first",
+  "editor.acceptSuggestionOnEnter": "off"
 }
